@@ -1,0 +1,5 @@
+@mixin font-generator($fontweight, $fontcolor, $fontsize){
+  font-weight: $fontweight;
+  color: $fontcolor;
+  font-size: $fontsize;
+}
